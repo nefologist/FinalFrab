@@ -1,0 +1,49 @@
+#main{
+
+	
+}
+
+#error{
+	color:#F00;
+}
+
+#map{
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+tr:hover{
+  background-color: #E6DDD5;
+}
+
+td {
+  font-size: 15px;
+	padding: 3px;
+}
+.modal-body{
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+#parent {
+    width: 900px;
+}
+
+.image {
+    float: left;
+    width: 300px;
+}
+
+.rankicon{
+	float: left; 
+	width: 25%; 
+	margin-right: 
+	1%; margin-bottom: 0.5em;
+}
+.error{
+	color:#F00;
+	
+}
